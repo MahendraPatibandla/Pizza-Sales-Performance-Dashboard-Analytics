@@ -4,6 +4,10 @@ A comprehensive pizza sales analytics dashboard built with MS SQL Server &amp; E
 ## Dashboard Preview
 <img width="1439" height="806" alt="image" src="https://github.com/user-attachments/assets/b4802edb-f049-48e7-98f0-971914239af0" />
 
+## 🎯 Problem Statement
+The objective of this project is to analyze pizza sales data and identify key business insights related to revenue, customer ordering behavior, and product performance using SQL and Excel-based analytics.
+
+
 ## 📌 Project Overview
 This project analyzes pizza sales data using SQL for data analysis and Microsoft Excel for dashboard visualization. The dashboard provides insights into sales trends, customer preferences, and business performance.
 
@@ -30,12 +34,18 @@ This project analyzes pizza sales data using SQL for data analysis and Microsoft
 - `excel-dashboard/` → Final Excel dashboard
 - `images/` → Dashboard screenshots
 
-
 ## 🚀 How to Use
 1. Run SQL queries from `sql/` folder on the dataset
 2. Load results into Excel
 3. Refresh pivot tables to update dashboard
 
+## 💡 Business Impact
+- Helps management identify best-selling and underperforming pizzas
+- Supports inventory and demand planning
+- Identifies peak ordering hours for staffing optimization
+- Improves data-driven decision making
+
+
 ## 👨‍💻 Author
 **Patibandla Mahendra**  
-Aspiring Data Analyst | SQL | Excel | Power BI
+Aspiring Data Analyst | SQL | Excel | Power BI | Data Visualization
