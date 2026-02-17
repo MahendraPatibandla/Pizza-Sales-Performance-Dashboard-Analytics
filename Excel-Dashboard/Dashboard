@@ -1,1 +1,3 @@
-
+This Excel dashboard provides an interactive analysis of pizza sales data. 
+It was designed to help business stakeholders quickly understand sales performance, customer demand patterns, and revenue drivers using visual analytics.
+The dashboard is fully dynamic and updates automatically using Pivot Tables, Charts, and Slicers.
