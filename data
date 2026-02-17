@@ -1,1 +1,97 @@
+📌 Project Requirements & Business Problem
 
+🧩 Problem Statement
+
+The objective of this project is to analyze pizza sales data and extract 
+meaningful business insights using SQL for data analysis and Microsoft Excel for visualization. 
+The analysis focuses on understanding sales performance, customer ordering behavior, 
+and product popularity through key performance indicators and charts. 
+
+
+📊 Key Performance Indicators (KPIs)
+
+The following KPIs were calculated to evaluate overall business performance:
+
+Total Revenue
+
+Sum of total price of all pizza orders.
+
+Average Order Value (AOV)
+
+Total revenue divided by total number of orders.
+
+Total Pizzas Sold
+
+Sum of quantities of all pizzas sold.
+
+Total Orders
+
+Count of unique orders placed.
+
+Average Pizzas per Order
+
+Total pizzas sold divided by total number of orders.
+
+These KPIs provide a high-level summary of sales efficiency and customer purchasing behavior. 
+
+
+📈 Chart & Visualization Requirements
+
+The following charts were created in Excel to support business analysis:
+
+1️⃣ Daily Trend for Total Orders
+
+Chart Type: Bar Chart
+
+Purpose: Identify daily fluctuations and ordering patterns.
+
+2️⃣ Hourly Trend for Total Orders
+
+Chart Type: Line Chart
+
+Purpose: Identify peak ordering hours during the day.
+
+3️⃣ Percentage of Sales by Pizza Category
+
+Chart Type: Pie Chart
+
+Purpose: Analyze contribution of each pizza category to total sales.
+
+4️⃣ Percentage of Sales by Pizza Size
+
+Chart Type: Pie Chart
+
+Purpose: Understand customer preference by pizza size.
+
+5️⃣ Total Pizzas Sold by Pizza Category
+
+Chart Type: Funnel Chart
+
+Purpose: Compare sales volume across pizza categories.
+
+6️⃣ Top 5 Best-Selling Pizzas
+
+Chart Type: Bar Chart
+
+Purpose: Identify most popular pizza items.
+
+7️⃣ Bottom 5 Worst-Selling Pizzas
+
+Chart Type: Bar Chart
+
+Purpose: Identify underperforming pizza items.
+
+These visualizations help stakeholders quickly interpret sales trends and product performance. 
+
+
+🛠 Software & Tools Used
+
+Microsoft Excel 2021
+
+Pivot Tables, Pivot Charts, Slicers, Dashboard Design
+
+Microsoft SQL Server 2021
+
+SQL Server Management Studio (SSMS) 21.0
+
+GitHub for project version control and documentation 
